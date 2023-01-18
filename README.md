@@ -6,7 +6,9 @@ There are 7668 movies in the dataset from 1980 to 2020.
 Each movie has the following attributes:
 
   budget: the budget of a movie. Some movies don't have this, so it appears as 0
+  
   company: the production company
+  
   country: country of origin
   director: the director
   genre: main genre of the movie.
